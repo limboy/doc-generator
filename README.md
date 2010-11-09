@@ -1,5 +1,7 @@
 一款简单的文档生成工具
 
+演示：http://project.leezhong.com/doc-generator/
+
 ## 环境要求
 
 php 5+
